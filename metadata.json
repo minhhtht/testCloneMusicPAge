@@ -1,0 +1,6 @@
+{
+  "name": "DEHIT Productions - USB 64GB Học Làm Nhạc Toàn Diện",
+  "description": "Trọn bộ 7 khóa học Producer từ căn bản đến nâng cao cùng Nhạc sĩ Hồ Thiện Quân. 115+ video bài giảng chất lượng cao, học offline trên USB 64GB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
